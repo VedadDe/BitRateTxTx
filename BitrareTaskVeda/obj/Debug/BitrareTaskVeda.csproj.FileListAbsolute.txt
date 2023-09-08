@@ -1,0 +1,11 @@
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\bin\Debug\BitrareTaskVeda.exe.config
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\bin\Debug\BitrareTaskVeda.exe
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\bin\Debug\BitrareTaskVeda.pdb
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.csproj.AssemblyReference.cache
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.csproj.SuggestedBindingRedirects.cache
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.csproj.CoreCompileInputs.cache
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.exe
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.pdb
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vedad\source\repos\BitrareTaskVeda\BitrareTaskVeda\obj\Debug\BitrareTaskVeda.csproj.CopyComplete
